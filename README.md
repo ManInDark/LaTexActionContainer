@@ -2,6 +2,8 @@
 
 A container based on debian which includes all the necessary packages for building a PDF with LaTex in a GitHub or Gitea action.
 
+Includes hunspell for validating spellings.
+
 ## Example Action
 
 ```yaml
